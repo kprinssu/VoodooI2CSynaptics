@@ -28,11 +28,11 @@
 			<string>VoodooI2CSynapticsDevice</string>
 			<key>IOPropertyMatch</key>
 			<dict>
-				<key>compatible</key>
-				<string>PNP0C50</string>
+				<key>name</key>
+				<string>SYNA2B33</string>
 			</dict>
 			<key>IOProbeScore</key>
-			<integer>200</integer>
+			<integer>100</integer>
 			<key>IOProviderClass</key>
 			<string>VoodooI2CDeviceNub</string>
 			<key>RM,deliverNotifications</key>
